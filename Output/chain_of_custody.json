@@ -1,0 +1,6 @@
+{
+    "source_file": "Dataset/ssh_auth.log",
+    "sha256": "8765486ee3ac0e9844e90d55f2eceac84f3690df9dbae87b4b1bacfe20ff4a4a",
+    "record_type": "educational demonstration",
+    "note": "Record actual handler, date/time, transfer and storage details in a real case."
+}

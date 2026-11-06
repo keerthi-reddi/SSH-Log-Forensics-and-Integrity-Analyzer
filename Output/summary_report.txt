@@ -1,0 +1,13 @@
+SSH FORENSIC LOG ANALYSIS SUMMARY
+====================================
+Total events: 8
+Failed logins: 7
+Successful logins: 1
+Other events: 0
+Invalid IP events: 0
+Failure threshold: more than 3
+
+Flagged IP addresses:
+- 192.168.1.10: 5 failed attempts
+
+Source log SHA-256: 8765486ee3ac0e9844e90d55f2eceac84f3690df9dbae87b4b1bacfe20ff4a4a

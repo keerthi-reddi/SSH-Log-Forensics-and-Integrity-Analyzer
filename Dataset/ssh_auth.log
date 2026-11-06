@@ -1,0 +1,8 @@
+Nov 03 09:00:01 server sshd[1001]: Failed password for admin from 192.168.1.10 port 5001 ssh2
+Nov 03 09:00:05 server sshd[1002]: Failed password for admin from 192.168.1.10 port 5002 ssh2
+Nov 03 09:00:09 server sshd[1003]: Failed password for root from 192.168.1.10 port 5003 ssh2
+Nov 03 09:00:13 server sshd[1004]: Failed password for test from 192.168.1.10 port 5004 ssh2
+Nov 03 09:00:17 server sshd[1005]: Failed password for user from 192.168.1.10 port 5005 ssh2
+Nov 03 09:05:20 server sshd[1006]: Accepted password for admin from 192.168.1.15 port 5006 ssh2
+Nov 03 09:10:30 server sshd[1007]: Failed password for guest from 192.168.1.20 port 5007 ssh2
+Nov 03 09:10:35 server sshd[1008]: Failed password for guest from 192.168.1.20 port 5008 ssh2
